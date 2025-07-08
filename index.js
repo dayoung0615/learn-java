@@ -70,7 +70,7 @@ const add = sumnomber(number3, number4);
 console.log("add : ", add);
 
 const upperString = (username) => {
-  return username.toUpperCase;
+  return username.toUpperCase();
 };
 
 console.log("Engname : ", upperString("dayoung"));
