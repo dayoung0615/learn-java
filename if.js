@@ -27,3 +27,6 @@ if (scoer >= 90) {
 } else {
   console.log("D등급 입니다");
 }
+
+scoer >= 60 ? pass() : false();
+console.log();
